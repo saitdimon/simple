@@ -1,0 +1,68 @@
+*{
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1280px) {
+    div.example {width: 1100px;}
+    }
+    @media screen and (max-width: 1024px) {
+    div.example {width: 980px;}
+    }
+
+body {
+    background-image: url(img/1618349965_11-phonoteka_org-p-goluboi-perelivayushchiisya-fon-11.png);
+}
+
+.margin {
+}
+.img {
+}
+.img-avatar {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: -88px 0px 0px 0px;
+}
+.text-avatar {
+    font-size: 20px;
+    color: aliceblue;
+    margin: 0px 0px 0px 7px;
+}
+
+.img-avatar-2 {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin: 23px 0px 0px -3px;
+}
+
+.text {
+    font-size: 15px;
+    color: rgb(235, 203, 203);
+    margin: 24px 0px 0px 122px;
+    
+}
+
+.text2 {
+    font-size: 15px;
+    color: rgb(235, 203, 203);
+    margin: -100px 0px 0px 119px; 
+}
+
+.text3 {
+    margin: -21px 0px 0px 9px;
+}
+
+.square {
+    height: 25px;
+    width: 485px;
+    background-color: #fdfcfc;
+    margin: 68px 0px 0px 0px;
+}
+
+.a {
+    color: red;
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+}
